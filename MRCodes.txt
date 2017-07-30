@@ -1,0 +1,20 @@
+AirBnB- Listings per Host
+AirBnB_2-Listing Count based on RoomType
+AirBnB_3- Partition The data based on the RoomType
+AirBnB_4- Average price for each neighourhood
+AirBnB_5- Indexing Based on Price Range
+AirBnB_6- Indexing Based on number of beds
+AirBnB_7- Indexing Based on number of People can be accommodated
+AirBnB_8- Indexing Based on neighbourhood
+AirBnB_9- Counting With counters
+AirBnB_10- Minimum, Maximum Bedroom and Average price based on location
+AirBnB_11- Minimum, Maximum price based on neighbourhood and bedroom grouping
+AirBnB_12- BloomFilter
+AirBnB_13- Structured to hierarchial - lisings & its reviews
+AirBnB_14- The minimum stay, price and number of reviews have been used to estimate the occupancy rate, the number of nights per year and the income per month for each listing.
+AirBnB_15- Top 50 Listings based on the Reviews Rating percentage calculations
+AirBnB_16- Minimum, Maximum Security Deposit based on neighbourhood 
+AirBnB_17- Joining listings And reviews Table
+hadoop jar /home/khushbuprkh/NetBeansProjects/AirBnB_17/dist/AirBnB_17.jar /list_1 /reviews /Output_17
+
+

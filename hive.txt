@@ -1,0 +1,57 @@
+id,
+host_neighbourhood,
+price,
+accommodates,
+room_type,
+host_id,
+host_name,
+host_since,
+host_location,
+host_response_rate,
+host_acceptance_rate,
+host_is_superhost,
+host_neighbourhood,host_listings_count,
+host_total_listings_count,
+host_has_profile_pic,
+host_identity_verified,
+city,
+state,
+zipcode,
+country_code,
+country,
+is_location_exact,
+property_type,
+accommodates,
+bathrooms,
+bedrooms,
+beds,
+bed_type,
+square_feet,
+create table load_reviews(listing_id BIGINT,review_id BIGINT,review_date DATE,reviewer_id BIGINT,reviewer_name STRING,comments STRING) ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.OpenCSVSerde'
+WITH SERDEPROPERTIES (
+   "separatorChar" = "\t",
+   "quoteChar"     = "'",
+   "escapeChar"    = "\\"
+)  
+create table table_reviews(listing_id BIGINT,review_id BIGINT,review_date DATE,reviewer_id BIGINT,reviewer_name STRING,comments STRING) row format delimited fields terminated by ‘,’;
+
+LOAD DATA INPATH '/home/khushbuprkh/Desktop/reviews_new.csv' OVERWRITE INTO TABLE table_reviews;
+
+create table split_words as select listing_id as listing_id,review_id as review_id,review_date as review_date,reviewer_id as reviewer_id,reviewer_name as reviewer_name,split(comments,' ') as words from table_reviews;
+
+create table review_word as select listing_id as listing_id,review_id as review_id,review_date as review_date,reviewer_id as reviewer_id,reviewer_name as reviewer_name,word from split_words LATERAL VIEW explode(words) w as word;
+
+create table dictionary(word string,rating int) ROW FORMAT DELIMITED FIELDS TERMINATED BY '\t';
+
+LOAD DATA LOCAL INPATH '/home/khushbuprkh/Desktop/AFINN.txt' into TABLE dictionary;
+
+create table word_join as select review_word.listing_id,review_word.review_id,review_word.review_date,review_word.reviewer_id,review_word.reviewer_name ,review_word.word,dictionary.rating from review_word LEFT OUTER JOIN dictionary ON(review_word.word =dictionary.word);
+
+select listing_id,AVG(rating) as rating from word_join GROUP BY word_join.review_id order by rating DESC;
+
+
+  <property>
+    <name>javax.jdo.option.ConnectionURL</name>
+    <value>jdbc:derby:;databaseName=metastore_db;create=true</value>
+    <description>JDBC connect string for a JDBC metastore</description>
+  </property>

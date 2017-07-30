@@ -1,0 +1,331 @@
+0	0	65.0	200.0
+Alki	0	100.0	100.0
+Anaheim	0	121.0	200.0
+Arbor Heights	0	100.0	100.0
+Atlantic	0	64.0	170.0
+Baldwin Hills	0	75.0	75.0
+Ballard	0	40.0	105.0
+Belltown	0	75.0	180.0
+Beverly Hills	0	375.0	375.0
+Brighton	0	105.0	105.0
+Broadview	0	120.0	120.0
+Bryant	0	79.0	79.0
+Capitol Hill	0	49.0	190.0
+Central Business District	0	99.0	275.0
+Clairemont Mesa East	0	93.0	93.0
+Columbia City	0	80.0	100.0
+Eastlake	0	80.0	129.0
+First Hill	0	60.0	250.0
+Fremont	0	70.0	129.0
+Gatewood	0	80.0	85.0
+Green Lake	0	74.0	119.0
+Greenwood	0	85.0	90.0
+Harrison/Denny-Blaine	0	80.0	80.0
+Huntington Beach	0	85.0	85.0
+Industrial District	0	265.0	265.0
+International District	0	65.0	65.0
+Laurelhurst	0	100.0	100.0
+Lower Queen Anne	0	79.0	175.0
+Madrona	0	79.0	155.0
+Magnolia	0	95.0	95.0
+Maple Leaf	0	79.0	85.0
+Meadowbrook	0	68.0	89.0
+Minor	0	62.0	200.0
+Montlake	0	139.0	200.0
+Mount Baker	0	125.0	125.0
+North Admiral	0	90.0	100.0
+North Beach/Blue Ridge	0	75.0	75.0
+North Beacon Hill	0	90.0	99.0
+North Delridge	0	69.0	95.0
+Phinney Ridge	0	69.0	95.0
+Pike Place Market	0	100.0	179.0
+Pioneer Square	0	95.0	250.0
+Queen Anne	0	80.0	145.0
+Ravenna	0	39.0	110.0
+Riverview	0	55.0	55.0
+Roosevelt	0	80.0	105.0
+Seaview	0	76.0	76.0
+Seward Park	0	70.0	80.0
+South Delridge	0	79.0	79.0
+South Lake Union	0	90.0	135.0
+Stevens	0	85.0	140.0
+The Junction	0	58.0	95.0
+University District	0	47.0	109.0
+Victory Heights	0	65.0	106.0
+Wallingford	0	60.0	145.0
+Wedgewood	0	100.0	100.0
+Westlake	0	85.0	85.0
+Yesler Terrace	0	100.0	100.0
+0	1	65.0	250.0
+Alki	1	85.0	135.0
+Anaheim	1	170.0	170.0
+Atlantic	1	80.0	122.0
+Ballard	1	70.0	255.0
+Belltown	1	75.0	999.0
+Bitter Lake	1	60.0	90.0
+Brighton	1	75.0	105.0
+Broadview	1	67.0	125.0
+Broadway	1	85.0	145.0
+Bryant	1	85.0	109.0
+Capitol Hill	1	49.0	250.0
+Cedar Park	1	70.0	89.0
+Central Business District	1	59.0	365.0
+Columbia City	1	65.0	130.0
+Crown Hill	1	70.0	100.0
+Dunlap	1	95.0	100.0
+Eastlake	1	75.0	150.0
+Fauntleroy	1	87.0	129.0
+Fenway/Kenmore	1	249.0	249.0
+First Hill	1	75.0	195.0
+Forestland	1	106.0	106.0
+Fremont	1	55.0	200.0
+Gatewood	1	75.0	75.0
+Genesee	1	75.0	139.0
+Georgetown	1	99.0	99.0
+Green Lake	1	75.0	145.0
+Greenwood	1	60.0	125.0
+Haller Lake	1	100.0	125.0
+Harrison/Denny-Blaine	1	75.0	155.0
+Hell's Kitchen	1	100.0	100.0
+Highland Park	1	58.0	120.0
+Holly	1	195.0	299.0
+Hollywood	1	144.0	350.0
+Interbay	1	69.0	150.0
+International District	1	59.0	160.0
+Jamaica Plain	1	90.0	90.0
+Laurelhurst	1	125.0	125.0
+Leschi	1	66.0	159.0
+Licton Springs	1	100.0	100.0
+Long Beach	1	140.0	140.0
+Lower Queen Anne	1	65.0	240.0
+Madison Park	1	70.0	210.0
+Madrona	1	78.0	130.0
+Magnolia	1	97.0	550.0
+Manhattan Beach	1	159.0	159.0
+Maple Leaf	1	50.0	130.0
+Mathews Beach	1	68.0	119.0
+Meadowbrook	1	80.0	80.0
+Minor	1	73.0	200.0
+Mission District	1	139.0	139.0
+Montlake	1	89.0	125.0
+Mount Baker	1	70.0	150.0
+North Admiral	1	59.0	195.0
+North Beach/Blue Ridge	1	49.0	95.0
+North Beacon Hill	1	58.0	150.0
+North Delridge	1	50.0	99.0
+Olympic Hills	1	93.0	95.0
+Phinney Ridge	1	85.0	150.0
+Pike Place Market	1	95.0	357.0
+Pioneer Square	1	149.0	300.0
+Portage Bay	1	79.0	150.0
+Queen Anne	1	69.0	219.0
+Rainier Beach	1	118.0	118.0
+Ravenna	1	70.0	129.0
+Riverview	1	65.0	90.0
+Roosevelt	1	60.0	165.0
+Seaview	1	110.0	110.0
+Seward Park	1	65.0	127.0
+South Beacon Hill	1	60.0	60.0
+South Delridge	1	48.0	99.0
+South Lake Union	1	88.0	125.0
+South Park	1	85.0	115.0
+Stevens	1	45.0	195.0
+The Junction	1	70.0	200.0
+University District	1	70.0	150.0
+Victory Heights	1	68.0	100.0
+Waianae Coast	1	150.0	150.0
+Wallingford	1	66.0	200.0
+Wedgewood	1	75.0	175.0
+Westlake	1	65.0	190.0
+Windermere	1	85.0	165.0
+Yesler Terrace	1	112.0	180.0
+0	2	85.0	295.0
+Alki	2	109.0	249.0
+Anaheim	2	219.0	219.0
+Arbor Heights	2	200.0	200.0
+Atlantic	2	90.0	200.0
+Ballard	2	79.0	450.0
+Belltown	2	110.0	700.0
+Bitter Lake	2	90.0	129.0
+Broadview	2	49.0	125.0
+Broadway	2	147.0	175.0
+Bryant	2	80.0	180.0
+Capitol Hill	2	99.0	600.0
+Central Business District	2	109.0	444.0
+Central San Pedro	2	122.0	122.0
+Columbia City	2	59.0	188.0
+Crown Hill	2	100.0	119.0
+Dunlap	2	99.0	120.0
+East Village	2	229.0	229.0
+Eastlake	2	110.0	129.0
+Fauntleroy	2	165.0	165.0
+Fenway/Kenmore	2	399.0	399.0
+First Hill	2	90.0	500.0
+Fremont	2	100.0	225.0
+Gatewood	2	125.0	125.0
+Genesee	2	110.0	165.0
+Green Lake	2	99.0	325.0
+Greenwood	2	75.0	235.0
+Haller Lake	2	97.0	125.0
+Harrison/Denny-Blaine	2	168.0	168.0
+High Point	2	99.0	99.0
+Highland Park	2	110.0	129.0
+Holly	2	160.0	295.0
+Hollywood	2	229.0	259.0
+Industrial District	2	320.0	320.0
+International District	2	69.0	250.0
+Kaanapali	2	155.0	155.0
+Laurelhurst	2	100.0	200.0
+Leschi	2	75.0	210.0
+Licton Springs	2	85.0	85.0
+Lower Queen Anne	2	150.0	275.0
+Madison Park	2	169.0	275.0
+Madrona	2	110.0	375.0
+Magnolia	2	110.0	350.0
+Maple Leaf	2	72.0	136.0
+Mathews Beach	2	125.0	150.0
+Meadowbrook	2	189.0	189.0
+Minor	2	99.0	425.0
+Mission District	2	125.0	125.0
+Montlake	2	130.0	130.0
+Mount Baker	2	81.0	300.0
+North Admiral	2	79.0	495.0
+North Beach/Blue Ridge	2	108.0	275.0
+North Beacon Hill	2	70.0	260.0
+North College Park	2	99.0	99.0
+North Delridge	2	70.0	148.0
+North Hollywood	2	100.0	100.0
+Northwest District	2	107.0	107.0
+Phinney Ridge	2	95.0	250.0
+Pike Place Market	2	290.0	557.0
+Pinehurst	2	125.0	125.0
+Portage Bay	2	160.0	300.0
+Queen Anne	2	74.0	350.0
+Rainier Beach	2	200.0	200.0
+Ravenna	2	80.0	1000.0
+Riverview	2	129.0	129.0
+Roosevelt	2	93.0	139.0
+Seaview	2	195.0	200.0
+Seward Park	2	99.0	250.0
+South Lake Union	2	550.0	550.0
+South Park	2	105.0	105.0
+Stevens	2	104.0	300.0
+The Junction	2	78.0	200.0
+University District	2	80.0	275.0
+Victory Heights	2	129.0	129.0
+View Ridge	2	120.0	125.0
+Wallingford	2	95.0	439.0
+Wedgewood	2	98.0	98.0
+Westlake	2	250.0	400.0
+Windermere	2	130.0	200.0
+Yesler Terrace	2	169.0	250.0
+0	3	125.0	680.0
+Alki	3	225.0	300.0
+Atlantic	3	135.0	250.0
+Ballard	3	99.0	475.0
+Belltown	3	210.0	899.0
+Broadview	3	183.0	195.0
+Bryant	3	125.0	250.0
+Capitol Hill	3	256.0	400.0
+Cedar Park	3	110.0	250.0
+Central Business District	3	99.0	127.0
+Columbia City	3	97.0	250.0
+Crown Hill	3	95.0	99.0
+Fauntleroy	3	177.0	270.0
+Fremont	3	150.0	500.0
+Gatewood	3	250.0	250.0
+Genesee	3	150.0	300.0
+Green Lake	3	79.0	450.0
+Greenwood	3	98.0	199.0
+Haller Lake	3	100.0	129.0
+Holly	3	185.0	359.0
+Holly Park	3	215.0	215.0
+Kaanapali	3	600.0	600.0
+Leschi	3	199.0	300.0
+Licton Springs	3	189.0	189.0
+Lower Queen Anne	3	275.0	310.0
+Madrona	3	175.0	500.0
+Magnolia	3	125.0	950.0
+Maple Leaf	3	135.0	139.0
+Mathews Beach	3	252.0	252.0
+Minor	3	150.0	450.0
+Montlake	3	400.0	400.0
+Mount Baker	3	139.0	150.0
+North Admiral	3	159.0	450.0
+North Beach/Blue Ridge	3	210.0	240.0
+North Beacon Hill	3	104.0	219.0
+North Delridge	3	250.0	250.0
+Phinney Ridge	3	78.0	400.0
+Pike Place Market	3	260.0	260.0
+Portage Bay	3	250.0	250.0
+Queen Anne	3	89.0	749.0
+Rainier Beach	3	159.0	159.0
+Ravenna	3	175.0	325.0
+Riverview	3	95.0	95.0
+Roosevelt	3	94.0	250.0
+Seaview	3	200.0	200.0
+Seward Park	3	65.0	375.0
+South Delridge	3	99.0	150.0
+South Park	3	100.0	100.0
+Stevens	3	114.0	399.0
+The Junction	3	299.0	350.0
+University District	3	195.0	275.0
+View Ridge	3	175.0	175.0
+Wallingford	3	150.0	400.0
+Wedgewood	3	250.0	250.0
+0	4	175.0	500.0
+Ballard	4	265.0	400.0
+Belltown	4	295.0	295.0
+Bryant	4	250.0	250.0
+Capitol Hill	4	200.0	260.0
+Columbia City	4	300.0	300.0
+Fremont	4	300.0	450.0
+Gatewood	4	245.0	245.0
+Genesee	4	375.0	375.0
+Greenwood	4	225.0	300.0
+Haller Lake	4	199.0	199.0
+Madison Park	4	285.0	285.0
+Madrona	4	195.0	295.0
+Magnolia	4	172.0	172.0
+Maple Leaf	4	200.0	200.0
+Mathews Beach	4	250.0	250.0
+Meadowbrook	4	250.0	250.0
+Minor	4	225.0	400.0
+Montlake	4	260.0	750.0
+North Admiral	4	225.0	350.0
+North Beacon Hill	4	150.0	150.0
+Phinney Ridge	4	349.0	349.0
+Portage Bay	4	380.0	525.0
+Queen Anne	4	222.0	499.0
+Rainier Beach	4	169.0	169.0
+Ravenna	4	280.0	280.0
+Seward Park	4	150.0	150.0
+Stevens	4	350.0	449.0
+The Junction	4	250.0	250.0
+University District	4	306.0	306.0
+View Ridge	4	244.0	244.0
+Wallingford	4	199.0	575.0
+Wedgewood	4	299.0	299.0
+Westlake	4	775.0	775.0
+0	5	480.0	480.0
+Ballard	5	465.0	465.0
+Capitol Hill	5	350.0	550.0
+Fauntleroy	5	495.0	495.0
+Fremont	5	435.0	435.0
+Gatewood	5	325.0	325.0
+Leschi	5	400.0	500.0
+Minor	5	400.0	400.0
+Montlake	5	415.0	415.0
+North Beacon Hill	5	399.0	399.0
+Queen Anne	5	700.0	975.0
+Stevens	5	450.0	450.0
+The Junction	5	370.0	370.0
+Wallingford	5	225.0	225.0
+Windermere	5	300.0	300.0
+0	6	545.0	545.0
+Capitol Hill	6	673.0	673.0
+Green Lake	6	550.0	550.0
+Portage Bay	6	750.0	750.0
+Queen Anne	6	461.0	461.0
+Wallingford	6	490.0	490.0
+Phinney Ridge	7	375.0	375.0
